@@ -18,3 +18,4 @@
 "Commit The dwell relaxes." 
 "Commit The toothpaste pauses." 
 "Commit The airship needs." 
+"Commit The cassock perfects." 

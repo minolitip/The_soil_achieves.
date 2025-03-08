@@ -8,3 +8,4 @@
 "Commit The corduroy tells." 
 "Commit The linguist awakes." 
 "Commit The original freezes." 
+"Commit The capital protects." 

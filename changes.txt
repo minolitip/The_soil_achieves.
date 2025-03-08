@@ -9,3 +9,4 @@
 "Commit The linguist awakes." 
 "Commit The original freezes." 
 "Commit The capital protects." 
+"Commit The yarn shrugs." 
